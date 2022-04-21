@@ -1,7 +1,7 @@
 {
     "name": "lab03",
     "version": "1.0.0",
-    "description": "MS Word Doc to PDF Serverless using GCP",
+    "description": "Convert Document to PDF Serverless using GCP",
     "main": "index.js",
     "scripts": {
       "start": "node index.js",
